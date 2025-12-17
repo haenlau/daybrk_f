@@ -105,7 +105,7 @@ export default defineConfig({
 	markdown: {
 		remarkPlugins: [
 			remarkMath,
-			remarkReadingTime,
+			// remarkReadingTime,
 			remarkExcerpt,
 			remarkGithubAdmonitionsToDirectives,
 			remarkDirective,

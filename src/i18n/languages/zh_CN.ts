@@ -17,10 +17,6 @@ export const zh_CN: Translation = {
 	[Key.uncategorized]: "未分类",
 	[Key.noTags]: "无标签",
 
-	[Key.wordCount]: "字",
-	[Key.wordsCount]: "字",
-	[Key.minuteCount]: "分钟",
-	[Key.minutesCount]: "分钟",
 	[Key.postCount]: "篇文章",
 	[Key.postsCount]: "篇文章",
 
