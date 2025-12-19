@@ -47,7 +47,8 @@ const mainPanelTop = siteConfig.banner.enable
 <slot slot="head" name="head"></slot>
 <div id="top-row" class="z-50 pointer-events-none relative transition-all duration-700 max-w-[var(--page-width)] px-0 md:px-4 mx-auto" class:list={[""]}>
     <div id="navbar-wrapper" class="pointer-events-auto sticky top-0 transition-all">
-        <Navbar></Navbar>
+        <!-- *** 修改这一行 *** -->
+        <Navbar class="!bg-white/50 !backdrop-blur-md border-b border-gray-200/70 dark:!bg-black/55 dark:!backdrop-blur-md dark:border-gray-800/70" />
     </div>
 </div>
 
