@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "看板",
+			name: "统计",
 			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
@@ -58,20 +58,20 @@ export const profileConfig: ProfileConfig = {
 	bio: "Who I am.",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "X",
+			icon: "line-md:twitter-x", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com/haenlau",
+			url: "https://x.com/haenlau",
 		},
 		{
 			name: "GitHub",
-			icon: "fa6-brands:github",
+			icon: "line-md:github",
 			url: "https://github.com/haenlau",
 		},
 		{
 			name: "Email",
-			icon: "fa6-solid:envelope",
+			icon: "line-md:email",
 			url: "haenlau@outlook.com",
 		},
 	],
