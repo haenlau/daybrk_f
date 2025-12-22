@@ -1,0 +1,24 @@
+---
+// src/components/widget/NoticeBoard.astro
+import { i18n } from "../../i18n/translation";
+import I18nKey from "../../i18n/i18nKey"; // <-- Default import for enum
+import WidgetLayout from "./WidgetLayout.astro";
+
+// --- 定义公告内容 ---
+const noticeContent = "我会不定期更新一些重要信息。";
+// --- End 定义内容 ---
+
+interface Props {
+	class?: string;
+	style?: string;
+}
+const className = Astro.props.class;
+const style = Astro.props.style;
+---
+
+<!-- 使用 WidgetLayout 包裹，name 使用 i18n -->
+<WidgetLayout name={i18n(I18nKey.notice_board)} id="notice-board" isCollapsed={false} collapsedHeight="7.5rem" class={className} style={style}>
+    <div class="text-sm text-neutral-600 dark:text-neutral-300">
+        {noticeContent}
+    </div>
+</WidgetLayout>
