@@ -47,9 +47,6 @@ importers:
       '@iconify-json/fa6-solid':
         specifier: ^1.2.4
         version: 1.2.4
-      '@iconify-json/line-md':
-        specifier: ^1.2.11
-        version: 1.2.11
       '@iconify-json/material-symbols':
         specifier: ^1.2.50
         version: 1.2.50
@@ -150,6 +147,9 @@ importers:
       '@biomejs/biome':
         specifier: 2.2.5
         version: 2.2.5
+      '@iconify-json/line-md':
+        specifier: ^1.2.11
+        version: 1.2.11
       '@rollup/plugin-yaml':
         specifier: ^4.1.2
         version: 4.1.2(rollup@2.79.2)
