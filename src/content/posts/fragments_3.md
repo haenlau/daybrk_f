@@ -1,6 +1,6 @@
 ---
 title: Fuwari 主题自定义记录三
-published: 2024-05-02
+published: 2024-05-05
 description:  更换 Fuwari 主题社交图标
 image: "https://726627.xyz/file/h/1766575712189_136408964_p0.png"
 tags: [Fuwari]
@@ -90,7 +90,9 @@ GitHub line-md:github https://github.com/yourname
 如果 line-md 中没有某平台图标，可回退到其他图标集（如 fa6-brands:mastodon），但需确保该图标集已安装并可用。
 
 6. 温馨提示
+
 所有图标由 Iconify 自动按需加载，无需手动引入 SVG 文件。
+
 图标颜色和尺寸可通过 CSS 控制。例如，在主题样式中添加：
 
 修改 theme/config.ts 后通常无需重启开发服务器，热更新会自动生效。
