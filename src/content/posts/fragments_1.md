@@ -2,7 +2,7 @@
 title: Fuwari 主题自定义记录一
 published: 2024-04-10
 description:  Fuwari 主题导航栏毛玻璃效果，文章卡片与 Banner 重叠程度调整
-image: "https://726627.xyz/file/widescreen/1766236808663_137680111_p0.jpg"
+image: "https://726627.xyz/pic/h/1766575712376_128199625_p0.png"
 tags: [Fuwari]
 category: BLog
 draft: false

@@ -1,8 +1,8 @@
 ---
-title: Fuwari 修改社交链接图标
+title: Fuwari 主题自定义记录三
 published: 2024-06-02
 description:  更换 Fuwari 主题社交图标
-image: "https://726627.xyz/file/widescreen/1766236805598_137735988_p0.jpg"
+image: "https://726627.xyz/pic/h/1766575713619_137679246_p0.jpg"
 tags: [Fuwari]
 category: BLog
 draft: false
