@@ -1,8 +1,8 @@
 ---
 title: Fuwari 主题自定义记录二
-published: 2024-05-23
+published: 2024-04-15
 description:  为 Fuwari 博客添加公告栏
-image: "https://726627.xyz/file/h/1766575712376_128199625_p0.png"
+image: "https://726627.xyz/file/h/1766575688007_137576135_p0.jpg"
 tags: [Fuwari]
 category: BLog
 draft: false
