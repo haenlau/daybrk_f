@@ -62,17 +62,17 @@ export const profileConfig: ProfileConfig = {
 			icon: "line-md:twitter-x", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://x.com/haenlau",
+			url: "https://x.com/realDonaldTrump",
 		},
 		{
 			name: "GitHub",
 			icon: "line-md:github",
-			url: "https://github.com/haenlau",
+			url: "https://github.com/torvalds",
 		},
 		{
 			name: "Email",
 			icon: "line-md:email",
-			url: "haenlau@outlook.com",
+			url: "me@daybrk.com",
 		},
 	],
 };
