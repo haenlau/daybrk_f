@@ -2,7 +2,7 @@
 title: Fuwari 主题自定义记录三
 published: 2024-05-05
 description:  更换 Fuwari 主题社交图标
-image: "https://726627.xyz/file/h/1766833903021_138060125_p0_scale.jpg"
+image: "https://726627.xyz/file/h/1767149495024_138060125_p0_scale.webp"
 tags: [Fuwari]
 category: BLog
 draft: false
