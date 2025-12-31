@@ -49,13 +49,18 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
+				{
+			name: "开往",
+			url: "https://www.travellings.cn/go.html", // Internal links should not include the base path, as it is automatically added
+			external: true, // Show an external link icon and will open in a new tab
+		},
 	],
 };
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Daybrk",
-	bio: "It's me.",
+	bio: "是我",
 	links: [
 		{
 			name: "X",
