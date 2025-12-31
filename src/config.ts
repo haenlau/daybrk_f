@@ -77,7 +77,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "line-md:email",
-			url: "me@daybrk.de",
+			url: "mailto:me@daybrk.de",
 		},
 	],
 };
